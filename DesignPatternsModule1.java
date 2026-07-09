@@ -1,7 +1,5 @@
 /*
- * Module 1 - Design Patterns and Principles
- * Cognizant Digital Nurture 5.0 - Java Full Stack Engineer track
- *
+
  * Single-file version: all SOLID principle demos and GoF design pattern
  * demos in one file for easy upload/reference.
  *
